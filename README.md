@@ -2,7 +2,10 @@
 
 A responsive **Weather App** built with **React** and **Vite**, utilizing the **OpenWeatherMap API** to display real-time weather updates. 🌍
 
+[Live Demo](https://weather-app-gamma-orcin-90.vercel.app/)
+
 ---
+
 
 ## 📸 Screenshots
 

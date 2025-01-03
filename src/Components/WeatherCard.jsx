@@ -79,7 +79,7 @@ const WeatherCard = () => {
   const weatherIconPath = `http://openweathermap.org/img/wn/${icon}@2x.png`;
 
   // Determine font color based on time of day
-  const textColor = timeOfDay === "morning" || timeOfDay === "afternoon" ? "#000" : "#FFF";
+  const textColor = timeOfDay === "afternoon" ? "#000" : "#FFF";
 
   return (
     <div>
