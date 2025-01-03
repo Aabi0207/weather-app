@@ -86,7 +86,6 @@ A responsive **Weather App** built with **React** and **Vite**, utilizing the **
    npm run dev
    ```
 
- ```
 
 ---
 
