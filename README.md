@@ -86,15 +86,7 @@ A responsive **Weather App** built with **React** and **Vite**, utilizing the **
    npm run dev
    ```
 
-5. **Build for Production** ⚙️
-   ```bash
-   npm run build
-   ```
-
-6. **Preview Production Build** 🌐
-   ```bash
-   npm run preview
-   ```
+ ```
 
 ---
 
@@ -122,8 +114,8 @@ Contributions are welcome! 🎉
 ## 📧 Contact
 
 - **Author**: Abhishek
-- **GitHub**: [Abhishek](https://github.com/Abhishek)
-- **Email**: abhishek@example.com
+- **GitHub**: [Aabi0207](https://github.com/Aabi0207)
+- **Email**: abhishekbiradar0207@gmail.com
 
 ---
 
